@@ -157,7 +157,6 @@ header {
     background-position: center;
     background-image: url('../img/IMG_5589.JPG');
     text-align: center;
-    color: white;
     .header-content {
         position: relative;
         text-align: center;
@@ -169,15 +168,17 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+                color: #F05F40;
             }
             hr {
                 margin: 30px auto;
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+                color: rgba(#F05F40, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
+                background-color:white;
             }
         }
     }
