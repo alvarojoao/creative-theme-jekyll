@@ -5,7 +5,7 @@ description: "Falderie is een groep van muziekliefhebbers. Wij organiseren verwe
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://stichtingfalderie.nl/" # the base hostname & protocol for your site
 thumbnail: "https://raw.githubusercontent.com/stichtingfalderie/stichting-falderie/master/img/Screenshot%202020-11-18%20at%2012.30.16.gif"
-
+icon: "https://raw.githubusercontent.com/stichtingfalderie/stichting-falderie/master/img/music-icon-11-256.png"
 facebook_username: "stichtingfalderie"
 
 twitter_username:
