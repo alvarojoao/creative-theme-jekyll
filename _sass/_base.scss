@@ -179,7 +179,11 @@ header {
                 color: rgba(white, 1);
                 font-size: 16px;
                 margin-bottom: 50px;
+                spam {
+                    background-color: #F05F40;
+                }
             }
+            
         }
     }
     @media (min-width: 768px) {
