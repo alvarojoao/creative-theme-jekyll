@@ -13,7 +13,7 @@ And from our domain: http://www.stichtingfalderie.nl/
 This file has some information as:
 
 1. **title of the website**, email, etc....
-1. ***descrition**
+1. **description**
 1. **email**
 1. **facebook page**
 
