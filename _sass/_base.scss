@@ -41,6 +41,11 @@ p {
     line-height: 1.5;
     margin-bottom: 20px;
 }
+p {
+    spam {
+        font-size: 0.7em;
+    }
+}
 
 .bg-primary {
     background-color: $theme-primary;
