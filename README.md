@@ -2,7 +2,7 @@
 
 The project was based on this [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
 
-The current URL from github: http://stichtingfalderie.github.io/stichting-falderie/
+The current URL from github: http://stichtingfalderie.github.io/
 
 And from our domain: http://www.stichtingfalderie.nl/
 
