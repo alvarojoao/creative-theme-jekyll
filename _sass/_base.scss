@@ -365,24 +365,23 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
-a.email_white  {
+
     /* unvisited link */
-    :link {
+    a.email_white:link {
       color: red;
     }
 
     /* visited link */
-    :visited {
+    a.email_white:visited {
       color: green;
     }
 
     /* mouse over link */
-    :hover {
+    a.email_white:hover {
       color: hotpink;
     }
 
     /* selected link */
-    :active {
+    a.email_white:active {
       color: blue;
     }
-}
