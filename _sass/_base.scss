@@ -365,24 +365,24 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
-.link_white  {
+a.link_white  {
     /* unvisited link */
-    a:link {
+    :link {
       color: red;
     }
 
     /* visited link */
-    a:visited {
+    :visited {
       color: green;
     }
 
     /* mouse over link */
-    a:hover {
+    :hover {
       color: hotpink;
     }
 
     /* selected link */
-    a:active {
+    :active {
       color: blue;
     }
 }
