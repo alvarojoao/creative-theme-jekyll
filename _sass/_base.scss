@@ -84,6 +84,7 @@ aside {
         @include sans-serif-font;
         font-weight: 700;
         text-transform: uppercase;
+        padding: 0 25px;
         &:hover,
         &:focus {
             color: darken($theme-primary, 10%);
