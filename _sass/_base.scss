@@ -46,6 +46,10 @@ p {
         font-size: 1.3em;
     }
 }
+a.doneren{
+    background: $theme-primary;
+    border-radius: 60px;
+}
 
 .bg-primary {
     background-color: $theme-primary;
