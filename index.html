@@ -5,8 +5,7 @@ permalink: /
 ---
 {% include carousel.html height="50" unit="%" duration="7" %}
 {% include header.html %}
-<!-- <a id="modal-link-concert" class="hidden btn btn-primary btn-lg" data-toggle="modal" data-target="#concert-modal"><span class="glyphicon glyphicon-play-circle"></span> Watch Video</a>
--->
+<a id="modal-link-concert" class="hidden btn btn-primary btn-lg" data-toggle="modal" data-target="#concert-modal"><span class="glyphicon glyphicon-play-circle"></span> concert</a>
 {% include modal.html id='concert' title='Uitnodiging verwenconcert op 16 september' body='modals/concert-16-09-23.html' %}
 
 {% include verwenconcert.html %}
@@ -20,7 +19,11 @@ window.onload = function(){
 	$(document).ready(function(){
 		$("#bs-example-navbar-collapse-1 li").removeClass('active');
 		$("#bs-example-navbar-collapse-1 li#home").addClass('active');
-		//$( "#modal-link-concert" ).trigger( "click" );
+		$( "#modal-link-concert" ).trigger( "click" );
+
+	
+  		//$('#concert-modal').modal('show');
+
 	})
 };
 </script>
